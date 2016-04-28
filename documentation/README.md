@@ -1,5 +1,5 @@
 #Elección de navegador
 Se ha optado por utilizar el navegador Iceweasel (Firefox) debido a que con Chromium y Midori he tenido problemas, puede que en ambos casos el problema se pueda arreglar mediante configuración aunque al encontrar la solución con Iceweasel he terminado descartándolos. 
-Chromium, el tiempo de respuesta a los clics es bastante lento, la experiencia de uso no es la adecuada.
-Midori, mucho más rápido que Chromium y Iceweasel en este sentido aunque sin conexión a Internet tiene tendencia a no responder. Al ser un sistema que debe ser independiente a la conexión a Internet el que no funcione correctamente sin acceso es básico.
-Firefox. Finalmente se elige este navegador por ser mejor que Chromium en la navegación y no dar problemas en momentos de desconexión.
+* **Chromium:** El tiempo de respuesta a los clics es bastante lento, la experiencia de uso no es la adecuada.
+* **Midori:** mucho más rápido que Chromium y Iceweasel en este sentido aunque sin conexión a Internet tiene tendencia a no responder. Al ser un sistema que debe ser independiente a la conexión a Internet el que no funcione correctamente sin acceso es básico.
+* **Firefox:** Finalmente se elige este navegador por ser mejor que Chromium en la navegación y no dar problemas en momentos de desconexión.
